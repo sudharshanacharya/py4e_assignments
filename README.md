@@ -1,2 +1,3 @@
 # py4e_assignments
-Assignments for 'Python for Everybody' course from Coursera
+
+References for some programs in the 'Python for Everybody' course in Coursera.
